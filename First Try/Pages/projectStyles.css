@@ -1,0 +1,16 @@
+body 
+{
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    width: 80%;
+    margin: auto;
+    background: url(Cupcakes.jpg) no-repeat center center;
+    background-size: cover;
+}
+h1 
+{
+ color:rgb(247, 9, 48);
+}
+p 
+{
+color:rgb(235, 8, 46);
+}
